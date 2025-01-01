@@ -4,12 +4,8 @@
 
 ### A Passionate Flutter Developer from Pakistan
 
-
-
-
 # About Me 👋
 
-Here are some ideas to get you started:
 
 - 🔭 Currently working with Flutter
 - 🌱 Learning Backend Development
