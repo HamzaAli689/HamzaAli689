@@ -1,10 +1,10 @@
 
   
-  ## Hello 👋, I'm Hamza Ali
+# Hello 👋, I'm Hamza Ali
 
 ### A Passionate Flutter Developer from Pakistan
 
-## 💫 About Me
+# 💫 About Me
 
 
 - 🔭 Currently working with Flutter
