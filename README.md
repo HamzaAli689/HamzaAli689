@@ -6,7 +6,6 @@
 
 # 💫 About Me:
 
-
 - 🔭 Currently working with Flutter
 - 🌱 Learning Backend Development
 - 💬 Feel free to ask me anything about Flutter
