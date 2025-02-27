@@ -14,6 +14,7 @@
 - 😄 Check out my work: <a href="https://www.notion.so/Getting-Started-19d41f5a745680a1b86ec6baaf741ebf">Projects!</a>
 ## 🌐 Connect with Me:
 
- <a href="https://linktr.ee/HamzaAli689">Connect with me!</a>
+ 
+ <Button><a href="https://linktr.ee/HamzaAli689">Connect with me!</a></Button>
 
 
