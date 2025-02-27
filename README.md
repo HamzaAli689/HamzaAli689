@@ -22,6 +22,10 @@
 <a href="https://www.x.com/hammadx02/">
     <img src="https://img.shields.io/badge/X (Twitter)-191a1f?style=for-the-badge&logo=x&logoColor=white" />
 </a>
+
+<a href="https://www.instagram.com/_hammadaali/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
+</a>
  
  <Button style : red><a href="https://linktr.ee/HamzaAli689">Connect with me!</a></Button>
 
