@@ -43,3 +43,9 @@
 
 
 
+# 📊 GitHub Stats:
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=hammadx02&theme=gotham)](https://github.com/hammadx02/github-readme-stats)
+[![GitHub Streak](https://streak-stats.demolab.com/?user=hammadx02&&theme=gotham)](https://git.io/streak-stats)
+
+
+
