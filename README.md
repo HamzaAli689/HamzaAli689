@@ -12,9 +12,9 @@
 - 🔭 Currently working with Flutter
 - 🌱 Learning Backend Development
 - 💬 Feel free to ask me anything about Flutter
-- 👀 Wanna see, what I do? Portfolio
-- 📫 Reach me at: Hamzaalivr33@gmail.com
-- 😄 Check out my work: <a href="https://www.notion.so/Getting-Started-19d41f5a745680a1b86ec6baaf741ebf">Projects!</a>
+- 👀 Wanna see, what I do? [Portfolio](https://bit.ly/hammadaali)
+- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1NV-nGZAjTFuJPdpRUPxUoXliv0sFWFYV/view?usp=sharing)
+- 📫 Reach me at: [Hamzaalivr33@gmail.com](mailto:Hamzaalivr33@gmail.com)
 ## 🌐 Connect with Me:
 
 <a href="https:">
