@@ -40,7 +40,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
-
 # 📊 GitHub Stats:
 [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Hamzaali689&theme=gotham)](https://github.com/Hamzaali689/github-readme-stats)
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Hamzaali689&&theme=gotham)](https://git.io/streak-stats)
