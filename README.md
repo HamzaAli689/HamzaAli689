@@ -7,7 +7,7 @@
 
 # 💫 About Me:
 - 🔭 Currently working with Flutter
-- 🌱 Learning Backend Development
+- 🌱 Learning Backend Development 
 - 💬 Feel free to ask me anything about Flutter
 - 👀 Wanna see, what I do? [Portfolio](https://bit.ly/hammadaali)
 - 📜 Take a look at my [Resume](https://drive.google.com/file/d/1O8epTGJNjj4f4b4MUuYVIDnRxY-v50T6/view?usp=drive_link)
