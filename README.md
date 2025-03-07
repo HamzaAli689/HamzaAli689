@@ -16,7 +16,7 @@
 - 📜 Take a look at my [Resume](https://drive.google.com/file/d/1O8epTGJNjj4f4b4MUuYVIDnRxY-v50T6/view?usp=drive_link)
 - 📫 Reach me at: [Hamzaalivr33@gmail.com](mailto:Hamzaalivr33@gmail.com)
 
-  
+   
 ## 🌐 Connect with Me:
 
 <a href="https:">
