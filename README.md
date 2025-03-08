@@ -26,6 +26,8 @@
 - **Version Control:** Git & GitHub
 - **Databases:** Firestore, Firebase Realtime Database  
 
+---
+
 ## 🚀 Projects:
 - 🎯 **Profile App** (Showcase your portfolio beautifully)
 - 🎯 **Quiz App for Kids** (Fun learning experience for children)
@@ -33,6 +35,8 @@
 - 🎯 **Fine Calculator** (Tracks late arrivals and calculates fines)
 - 🎯 **Emergency Rescue Detector for Cars** (Using Arduino sensors for safety)
 
+
+---
 
 ## 🌐 Connect with Me: 
 
