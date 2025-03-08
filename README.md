@@ -25,7 +25,15 @@
 - **Tools:** Firebase, Arduino IDE, Visual Studio Code
 - **Version Control:** Git & GitHub
 - **Databases:** Firestore, Firebase Realtime Database  
-   
+
+## 🚀 Projects:
+- 🎯 **Profile App** (Showcase your portfolio beautifully)
+- 🎯 **Quiz App for Kids** (Fun learning experience for children)
+- 🎯 **BMI Calculator** (Health tracking made easy)
+- 🎯 **Fine Calculator** (Tracks late arrivals and calculates fines)
+- 🎯 **Emergency Rescue Detector for Cars** (Using Arduino sensors for safety)
+
+
 ## 🌐 Connect with Me: 
 
 <a href="https:">
