@@ -17,7 +17,7 @@
 - 🚀 Exploring new ideas to develop useful applications
 - 💡 Strong interest in Arduino projects and IoT innovations
 - 👀 Wanna see, what I do? [Portfolio](https://bit.ly/hammadaali)
-- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1O8epTGJNjj4f4b4MUuYVIDnRxY-v50T6/view?usp=drive_link)
+- 📜 Take a look at my [Resume](https://drive.google.com/file/d/1e0n4JO6eJTPZ2hYFdd5uPtsfjU_dUw4D/view?usp=drive_link)
 - 📫 Reach me at: [Hamzaalivr33@gmail.com](mailto:Hamzaalivr33@gmail.com)
 
 
