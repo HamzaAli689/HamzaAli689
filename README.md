@@ -29,7 +29,7 @@
 - **Version Control:** Git & GitHub
 - **Databases:** Firestore, Firebase Realtime Database  
 
----
+--- 
 
 ## 🚀 Projects:
 - 🎯 **Profile App** (Showcase your portfolio beautifully)
