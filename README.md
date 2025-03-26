@@ -24,7 +24,7 @@
 
 ## 🔥 Tech Stack:
 - **Languages:** Dart, C, C++
-- **Frameworks:** Flutter 
+- **Frameworks:** Flutter  
 - **Tools:** Firebase, Arduino IDE, Visual Studio Code
 - **Version Control:** Git & GitHub
 - **Databases:** Firestore, Firebase Realtime Database  
